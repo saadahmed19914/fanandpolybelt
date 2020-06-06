@@ -1,0 +1,49 @@
+.c-2 {
+    background-color: yellowgreen;
+}
+
+.Firstcolor {
+    background-color: yellowgreen ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.carousel-item {
+    height: 450px;
+}
+.col-sm-6   {
+        padding-top: 20px;
+        background-color: yellowgreen;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-align: center;
+}
+
+
+.para1 {
+    margin-top: 10px;
+    height: 200px;
+    width: 100%;
+    background-color:yellowgreen;
+
+}
+
+.text2 {
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+} 
+
+.last {
+    margin-top: 10px;
+    height: 70px;
+    width: 100%;
+    background-color: black;
+
+}
+.text1 {
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
